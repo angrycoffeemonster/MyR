@@ -1,3 +1,4 @@
+#set working directory
 setwd("~/Dropbox/R/E14new3")
 #fix(Clear)
 E11Data <- read.table("E11Data6.csv", header=TRUE, sep="," )
